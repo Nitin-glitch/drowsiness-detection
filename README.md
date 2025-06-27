@@ -32,7 +32,7 @@ This project detects drowsiness in real-time using a webcam feed by analyzing th
 - Audio alert if drowsiness threshold is exceeded
 
 ## Output Sample and Eye Aspect Ratio Graph Changes
-![Image](https://github.com/user-attachments/assets/2aa4fe8c-7e51-476f-ae2c-e737663babf5)
+https://github.com/user-attachments/assets/5ca66b33-d3b2-4d4a-84ad-c6c5d2afb9d3
 
 ## Future Scope
 - Add yawn detection and head tilt monitoring
